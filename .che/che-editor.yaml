@@ -1,4 +1,4 @@
-id: eclipse/che-theia
+id: eclipse/che-theia/latest
 override:
   containers:
     - name: theia-ide
